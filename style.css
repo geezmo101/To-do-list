@@ -1,0 +1,53 @@
+/*
+*{
+    border: 0.5px solid grey;
+}
+*/
+
+
+h3{
+    text-align: center;
+    font-family: cursive;
+    margin-top: 25px;
+}
+
+
+/*
+.newPara{
+    font-family: cursive;
+    border-bottom: 1px solid blue;
+    margin-top: -25px;
+}*/
+
+
+/*
+div[id^=newRow]{
+    border-bottom: 0.5px solid blue;
+}
+*/
+
+#newRow{
+    margin-top: 5px;
+    font-family: sans-serif;
+}
+
+.numberPara{
+    text-align: center;
+    font-size: 11px;
+    margin-top: 10px;
+}
+
+.textInput{
+    margin-top: 6px;
+    border-bottom: 0.3px solid #a3a3a3;
+}
+
+.tiny-button{
+    margin-top: 10px;
+}
+
+
+#mainParagraph {
+    border-left: 0.4px solid #8f8f8f;
+    border-bottom: 0.4px solid #8f8f8f;
+}
