@@ -1,0 +1,23 @@
+
+
+                         ****** Git instruction *******
+
+*** To clone or download your site/pages from Git. ***
+cmd - git clone https://link: from git.
+cmd - git status
+cmd - dir
+
+*** To checkout the content files (eg.index.html, css, .js etc.) from the directory. ***
+cmd - git checkout gh-pages
+cmd - git status 
+cmd - dir
+
+*** After making changes to your site on the pc you need to (add, commit, push) the files to the git repository ***
+cmd - git add .
+cmd git status
+
+cmd git commit -m "notes"
+cmd git status
+
+cmd git add
+cmd git status
